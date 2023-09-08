@@ -232,7 +232,7 @@ jobs:
       - destroy-environment
       - revert-migrations    
 
-deploy-frontend:
+  deploy-frontend:
     docker:
       - image: python:3.7-alpine3.16
     steps:
