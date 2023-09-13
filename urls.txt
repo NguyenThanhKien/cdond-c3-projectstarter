@@ -1,1 +1,2 @@
 public git repository: https://github.com/NguyenThanhKien/cdond-c3-projectstarter
+http://udapeople-6dd4ecc.s3-website-us-east-1.amazonaws.com
